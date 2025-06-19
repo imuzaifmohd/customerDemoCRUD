@@ -1,5 +1,3 @@
-# customerDemoWebApiPart2_withEntityFramework
-
 # Customer Demo CRUD App
 
 ![image](https://github.com/user-attachments/assets/030c68ea-37dc-459a-9d20-1f4d14cb6174)
