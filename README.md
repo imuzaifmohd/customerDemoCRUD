@@ -2,11 +2,13 @@
 
 # Customer Demo CRUD App
 
+![image](https://github.com/user-attachments/assets/030c68ea-37dc-459a-9d20-1f4d14cb6174)
+
 This is a simple ASP.NET Core Web API project demonstrating CRUD operations using **Entity Framework Core** and the **Repository Pattern**.
 
 ## 🛠️ Technologies Used
 
-- ASP.NET Core Web API (.NET 6 or later)
+- ASP.NET Core Web API
 - Entity Framework Core
 - SQL Server (or any compatible DB)
 - Repository Pattern
