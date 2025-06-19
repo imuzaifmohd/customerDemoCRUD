@@ -10,7 +10,7 @@ This is a simple ASP.NET Core Web API project demonstrating CRUD operations usin
 
 - ASP.NET Core Web API
 - Entity Framework Core
-- SQL Server (or any compatible DB)
+- SQL Server
 - Repository Pattern
 - Swagger (for API testing)
 - GitHub for version control
