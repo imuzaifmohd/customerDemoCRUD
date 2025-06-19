@@ -18,11 +18,17 @@ This is a simple ASP.NET Core Web API project demonstrating CRUD operations usin
 ## 📂 Project Structure
 customerDemoCRUD/
 │
+
 ├── Controllers/ # API Controllers
+
 ├── Models/ # Data models
+
 ├── Repositories/ # Repository interfaces and implementations
+
 ├── Data/ # DbContext and EF Core setup
+
 ├── Program.cs # Application startup
+
 └── README.md # Project documentation
 
 
