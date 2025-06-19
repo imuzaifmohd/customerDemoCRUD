@@ -30,6 +30,12 @@ namespace customerDemoWebApiPart2_withEntityFramework.Controllers
         public async  Task<IActionResult> GetCustomerById(int id)
         {
             var customer = await _customerService.GetCustomerById(id);
+
+            if (customer == null)
+            {
+                return NotFound("Customer not found.");
+            }
+
             return Ok(customer);
         }
 
