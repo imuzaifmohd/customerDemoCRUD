@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/030c68ea-37dc-459a-9d20-1f4d14cb6174)
 
-This is a simple ASP.NET Core Web API project demonstrating CRUD operations using **Entity Framework Core** and the **Repository Pattern**.
+This project is made using .NET Core. It is built to perform CRUD operations while being connected to a database using Entity Framework, and follows the Repository Pattern for better code structure and maintainability.
 
 ## 🛠️ Technologies Used
 
