@@ -56,13 +56,14 @@ The API supports the following operations on customers:
 }
 
 4. Run migrations (if applicable)
+sample:
+Add-Migration "Initial Migration"
+update-database
 
-dotnet ef migrations add InitialCreate
-dotnet ef database update
 
-5. Run the application
+6. Run the application
 
-6. Access Swagger UI at:
+7. Access Swagger UI at:
 
 https://localhost:<port>/swagger
 
